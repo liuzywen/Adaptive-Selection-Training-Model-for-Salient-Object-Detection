@@ -1,0 +1,1 @@
+# Adaptive-Selection-Training-Model-for-Salient-Object-Detection
